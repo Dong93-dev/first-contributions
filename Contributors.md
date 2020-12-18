@@ -15,8 +15,7 @@
 - [kris tel](https://github.com/panamtown04)
 - [Su Wei](https://github.com/akasuv)
   [Harsh Thumar]
-- [Queena](https://github.com/canikillyoulater)
-  -[Sudha Yadavalli 12.16.2020](https://github.com/SudhaYadavalli)
+- [Queena](https://github.com/canikillyoulater) -[Sudha Yadavalli 12.16.2020](https://github.com/SudhaYadavalli)
 - [Machina](https://github.com/Ckrielle)
 - [Maruf](https://github.com/immaruf)
 - [Kanti Sonnathi](https://github.com/kantisonnathi)
@@ -8500,7 +8499,7 @@
 - [Dennis Joel Mwagiru](https://github.com/dennismwagiru)
 - [Yaron Pentchak](https://github.com/yaronpen)
 - [Nikos Andriotis](https://github.com/nikos-andriotis)
-- [Meeru](https://github.com/m33ru) ¯\_(ツ)_/¯
+- [Meeru](https://github.com/m33ru) ¯\_(ツ)\_/¯
 - [Vlad Konoshenko](https://github.com/Konoshenko)
 - [Andrea Antonio Perrelli](https://github.com/AndreaPerrelli)
 - [Chris Anderson](https://github.com/TheSlamAnderson)
